@@ -133,7 +133,7 @@ section{
     min-height: 800px;
     display: flex;
     align-items: center;
-    background-image: url(S:/WT/images/porsche.jpg);
+    background-image: url(porsche.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center left;
