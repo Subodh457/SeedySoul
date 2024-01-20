@@ -89,37 +89,6 @@ header{
     background: transparent;
     font-size: 1rem;
 }
-/* -- Navigation bar CSS -- */
-
-/*.super .navbar-brand{
-    color: rgb(0, 0, 0);
-    font-size: larger;
-    font-weight: 400;
-    gap: 2rem;
-}
-.super .navbar-brand span{
-    color: red;
-    font-size: x-large;
-    font-weight: 500;
-}
-
-.navbar{
-    font-size: 1rem;
-    gap: 2rem;
-}
-
-.navbar :hover{
-    color: red;
-    column-gap: 2rem;
-    border-bottom: 3px solid red;
-}
-
-header .shadow{
-    background-color: var(--bg-color);
-    box-shadow: 4px 4px 20px rgb(15, 54, 55 / 20%);
-    transition: 0.5s;
-}*/
-
 /* -- Home Page CSS -- */
 
 section{
@@ -133,7 +102,7 @@ section{
     min-height: 800px;
     display: flex;
     align-items: center;
-    background-image: url(porsche.jpg);
+    background-image: url(images/porsche.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center left;
